@@ -76,6 +76,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+cluster_asn copy.ipynb
 
 # IPython
 profile_default/
